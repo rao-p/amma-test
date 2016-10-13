@@ -1,5 +1,8 @@
 Tool Chain in DevOps
 
+This text to create a merge conflict and this change is being done in 
+    the remote repository on GitHub server.
+
 What are the most sort after tools to implement continuous delivery.
 
 Note: Continuous delivery is mainly dependent on continuous integration 
