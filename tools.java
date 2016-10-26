@@ -18,3 +18,5 @@ Git fast forwards and branch management. In certain situations, Git does a fast 
 
 
 Hey I am trying to create merge conflict and this change is in my local repository
+
+Trying out the pull request
